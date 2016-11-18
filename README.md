@@ -1,1 +1,1 @@
-# chrome-speech-to-text
+# Chrome Plugin for Speech To Text Conversion
